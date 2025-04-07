@@ -1,7 +1,6 @@
-import Image from "next/image";
-
 'use client';
 
+import Image from "next/image";
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '../contexts/AuthContext';
